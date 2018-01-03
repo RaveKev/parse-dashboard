@@ -1,0 +1,11 @@
+{
+  "apps": [{
+    "serverURL": "http://localhost:1337/parse/",
+    "appId": "eventregistration112App6vf3SyF9",
+    "masterKey": "mZwNce2F#!%",
+    "appName": "eventregistration112",
+    "iconName": ""
+  }
+  ],
+  "iconsFolder": "icons"
+}
